@@ -1,0 +1,30 @@
+
+    CRITICAL CHURN DRIVERS:
+    1. Contract Type: - Month-to-month contracts have 42.7% churn rate (vs 2.8% for two-year contracts)
+    2. Tenure: - New customers (0-1 year) have 47.7% churn rate (vs 6.6% for loyal customers)
+    3. Internet Service: - Fiber optic users have 41.9% churn rate (vs 19.0% for DSL users)
+    4. Payment Method: - Electronic check users have 45.3% churn rate (vs 16.7% for automatic payments)
+    5. Online Security: - Customers without online security have 41.8% churn rate (vs 14.6% with security)
+    
+    FINANCIAL IMPACT ANALYSIS:
+    - Average monthly revenue per customer: $64.76
+    - Estimated annual revenue loss: $1,669,570
+    - Potential savings from 10% churn reduction: $147,782/year
+    
+    ACTIONABLE RETENTION STRATEGIES:
+    1. Contract Incentives:
+       - Convert month-to-month to annual contracts with 10% discount
+       - Offer loyalty bonuses for 2-year commitments
+    2. High-Risk Onboarding:
+       - Dedicated support team for new customers (0-6 months)
+       - Special welcome offers for first-year subscribers
+    3. Service Improvements:
+       - Quality assurance program for fiber optic users
+       - Free speed upgrades during peak hours
+    4. Payment Optimization:
+       - 5% discount for automatic payment enrollment
+       - Payment failure protection program
+    5. Security Bundling:
+       - Include basic security with all internet packages
+       - Free security suite trials for at-risk customers
+    
